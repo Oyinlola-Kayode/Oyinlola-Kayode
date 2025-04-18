@@ -13,8 +13,8 @@
 - linkedin: [oyinlola kayode](https://www.linkedin.com/in/oyinlola-kayode/)  
 - twitter: [@mhizhoneycolle1](https://twitter.com/Mhizhoneycolle1)
 
-😄 pronouns: she/her
+😄 pronouns: She/Her
 
-⚡ fun fact: i enjoy going on adventures, meeting people with potential, watching movies, and listening to music. these experiences help me approach data with creativity and empathy.
+⚡ fun fact: i enjoy going on adventures, meeting people with potential, watching movies, and listening to music. These experiences help me approach data with creativity and empathy.
 
 
