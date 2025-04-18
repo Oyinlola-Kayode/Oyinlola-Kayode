@@ -1,23 +1,20 @@
-# 👋 Hi, I’m @Oyinlola-Kayode
+# 👋 hi, i’m @oyinlola-kayode
 
-👀 I’m interested in **data analysis**, **data visualization**, and **machine learning**. I enjoy extracting actionable insights from data and turning complex problems into creative solutions.
+👀 i’m interested in data analysis, data visualization, and turning data into meaningful business insights.
 
-🌱 I’m currently learning **advanced SQL techniques, data storytelling with Power BI, and exploring machine learning algorithms with Python**.
+🌱 i work with tools like excel, power bi, sql, and python (pandas, numpy) to clean, analyze, and visualize data for decision-making.
 
-💼 I have experience working with tools like **Python (Pandas, NumPy), SQL, Power BI, Excel, and Tableau**.
+💼 i have experience analyzing large datasets, building interactive dashboards, and delivering insights that solve real-world business problems.
 
-💞️ I’m looking to collaborate on **real-world data analysis projects, open-source contributions, and hackathons**. I'm always excited to connect with other data enthusiasts and work on impactful data-driven projects.
+💞️ i’m open to collaborating on data analysis projects, visual storytelling, and anything that makes data more understandable and impactful.
 
-📫 How to reach me:  
-- Email: [kayodeoyinloladeborah1540@gmail.com](kayodeoyinloladeborah1540@gmail.com)  
-- LinkedIn: [Oyinlola Kayode](https://www.linkedin.com/in/oyinlola-kayode/)  
-- Twitter: [@Mhizhoneycolle1](https://twitter.com/Mhizhoneycolle1)
+📫 how to reach me:  
+- email: [kayodeoyinloladeborah1540@gmail.com](mailto:kayodeoyinloladeborah1540@gmail.com)  
+- linkedin: [oyinlola kayode](https://www.linkedin.com/in/oyinlola-kayode/)  
+- twitter: [@mhizhoneycolle1](https://twitter.com/Mhizhoneycolle1)
 
-😄 Pronouns: **She/Her**
+😄 pronouns: she/her
 
-⚡ Fun fact: I enjoy going on adventures, meeting people with potential, watching movies, and listening to music. I believe that each of these experiences helps me approach data analysis with a fresh perspective and creativity!
+⚡ fun fact: i enjoy going on adventures, meeting people with potential, watching movies, and listening to music. these experiences help me approach data with creativity and empathy.
 
-<!---
-Oyinlola-Kayode/Oyinlola-Kayode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
