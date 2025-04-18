@@ -1,4 +1,4 @@
-# 👋 hi, i’m @oyinlola-kayode
+# 👋 Hi, i’m @oyinlola kayode
 
 👀 i’m interested in data analysis, data visualization, and turning data into meaningful business insights.
 
