@@ -1,20 +1,25 @@
-#  Hi, i’m @oyinlola kayode
+<h2 align="center">👋 Hi, meet <span style="color:#118DFF;">Oyinlola Kayode</span> — your results-driven Data Analyst</h2>
+<h4 align="center">Data Analyst | Listening to Data, Crafting Insights that Drive Decisions</h4>
 
- I’m interested in data analysis, data visualization, and turning data into meaningful business insights.
+---
 
- I work with tools like excel, power bi, sql, and python (pandas, numpy) to clean, analyze, and visualize data for decision-making.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kayode-0yinlola/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kayodeoyinloladeborah1540@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Oyinlola-Kayode" target="_blank">
+    <img src="https://img.shields.io/badge/View%20my%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@kayodeoyinloladeborah1540" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20my%20Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
 
- I have experience analyzing large datasets, building interactive dashboards, and delivering insights that solve real-world business problems.
+---
 
- I’m open to collaborating on data analysis projects, visual storytelling, and anything that makes data more understandable and impactful.
-
- How to reach me:  
-- email: [kayodeoyinloladeborah1540@gmail.com](mailto:kayodeoyinloladeborah1540@gmail.com)  
-- linkedin: [oyinlola kayode](https://www.linkedin.com/in/oyinlola-kayode/)  
-- twitter: [@mhizhoneycolle1](https://twitter.com/Mhizhoneycolle1)
-
- Pronouns: She/Her
-
- Fun fact: i enjoy going on adventures, meeting people with potential, watching movies, and listening to music. These experiences help me approach data with creativity and empathy.
-
-
+<p align="center">
+  <em>"Exploring data stories, uncovering insights, and delivering value through evidence-driven decisions."</em>
+</p>
