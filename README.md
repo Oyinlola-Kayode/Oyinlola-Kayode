@@ -1,25 +1,27 @@
-<h2 align="center">👋 Hi, meet <span style="color:#118DFF;">Oyinlola Kayode</span> — your results-driven Data Analyst</h2>
-<h4 align="center">Data Analyst | Listening to Data, Crafting Insights that Drive Decisions</h4>
+<h2 align="left">👋 Hi, meet <span style="color:#118DFF;">Oyinlola Kayode</span> — your results-driven Data Analyst</h2>
 
----
+<h4 align="left">Data Analyst | Listening to Data, Crafting Insights that Drive Decisions</h4>
 
-<p align="center">
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/kayode-0yinlola/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="mailto:kayodeoyinloladeborah1540@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Mail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
   <a href="https://github.com/Oyinlola-Kayode" target="_blank">
-    <img src="https://img.shields.io/badge/View%20my%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=Profile&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub logo" />
   </a>
   <a href="https://medium.com/@kayodeoyinloladeborah1540" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20my%20Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=Read&color=000000&logoColor=white&style=for-the-badge" height="25" alt="Medium logo" />
   </a>
-</p>
+</div>
 
----
-
-<p align="center">
-  <em>"Exploring data stories, uncovering insights, and delivering value through evidence-driven decisions."</em>
-</p>
+###
