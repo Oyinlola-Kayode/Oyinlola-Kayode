@@ -100,3 +100,17 @@ This project presents a comprehensive analysis of **mental health survey data** 
 
 - **AI Job Threat Index Analysis** [View Project](https://github.com/Oyinlola-Kayode/AI-JOB-THREAT-INDEX-ANALYSIS)   
 The **AI Job Threat Index Analysis** examines how **artificial intelligence (AI)** impacts a wide array of job roles across different industries. It explores the extent to which AI automates tasks and how this automation varies by domain—helping organizations plan for workforce evolution in the age of AI. 
+
+---
+## 🤝 Let’s Connect  
+
+- **LinkedIn:** [linkedin.com/in/kayodeoyinlola](https://www.linkedin.com/in/kayodeoyinlola)  
+- **Medium:** [medium.com/@kayodeoyinloladeborah1540](https://medium.com/@kayodeoyinloladeborah1540)  
+- **GitHub:** [github.com/Oyinlola-Kayode](https://github.com/Oyinlola-Kayode)  
+
+---
+
+## 🌟 Fun Fact  
+I draw **strength and focus from music**, which keeps me inspired through challenges and creative projects. I also love **watching sprints**, where discipline and momentum remind me of the pace of growth in data and life.  
+
+Beyond analytics, I genuinely enjoy **meeting people, exchanging ideas, and contributing to community-driven initiatives**. Collaboration and connection keep me grounded — they remind me that data and impact are most powerful when shared.  
