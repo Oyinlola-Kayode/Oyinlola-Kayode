@@ -32,13 +32,14 @@ My goal is to transform data into actionable insights that inspire growth, empow
 ---
 ## 👩‍💻 About Me  
 
-I am a passionate **Data Analyst** with a background in **Biochemistry**, driven by a strong desire to uncover insights and deliver data-driven solutions that enhance health outcomes and organizational performance. I enjoy merging analytical thinking with scientific reasoning to solve complex problems and create measurable impact across diverse sectors.  
+I am a passionate Data Analyst with a background in Biochemistry, driven by a strong desire to uncover insights and deliver data-driven solutions that enhance health outcomes and organizational performance. I enjoy merging analytical thinking with scientific reasoning to solve complex problems and create measurable impact across diverse sectors.  
 
-I’m deeply grounded in **data storytelling** — transforming data into clear, actionable insights that guide decisions and drive meaningful results. My technical toolkit includes **Power BI, SQL, Python, and Zapier**, alongside **Microsoft tools (Excel, PowerPoint, Word)** and **Google Sheets**, which I use to analyze, visualize, and communicate findings effectively.  
+I’m deeply grounded in data storytelling, transforming data into clear, actionable insights that guide decisions and drive meaningful results. My technical toolkit includes Power BI, SQL, Python, and Zapier, alongside Microsoft tools (Excel, PowerPoint, Word) and Google Sheets, which I use to analyze, visualize, and communicate findings effectively.  
 
-Beyond analytics, I value **collaboration, connection, and community impact**. I enjoy engaging with like-minded professionals, volunteering for initiatives that promote growth, and contributing to projects that use data to foster innovation and development in this evolving digital era.  
+Beyond analytics, I value collaboration, connection, and community impact. I enjoy engaging with like-minded professionals, volunteering for initiatives that promote growth, and contributing to projects that use data to foster innovation and development in this evolving digital era.  
 
-Curious, adaptable, and purpose-driven, I continuously expand my expertise to remain versatile and impactful — using data not only to inform but to **inspire change and shape progress**.  
+Curious, adaptable, and purpose-driven, I continuously expand my expertise to remain versatile and impactful, using data not only to inform but to inspire change and shape progress.  
+
 ---
 ## 🧠 Technical Skills  
 
