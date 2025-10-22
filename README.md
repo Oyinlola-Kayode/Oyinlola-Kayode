@@ -81,3 +81,22 @@ A Power BI analysis applying the **Pareto principle (80/20 rule)** to identify t
 - **Amazon Sales Report** [View Project](https://medium.com/@kayodeoyinloladeborah1540/report-on-amazon-sales-f9165c973e42)  
 An analytical report examining **Amazon’s sales data** sourced from Kaggle, focusing on product categories, sales channels, and emerging sales trends. The project leverages **Power BI** for visualization to uncover insights that can improve sales strategies, streamline operations, and enhance customer satisfaction. 📦  
 
+---
+### 🧩 Power BI + SQL  
+
+- **Parch and Posey SQL + Power BI Analysis** [View Project](https://github.com/Oyinlola-Kayode/parch-and-posey-sql-powerbi-analysis)  
+This project analyzes **sales and customer engagement data** from Parch and Posey using **PostgreSQL** for querying and **Power BI** for visualization. Insights derived from SQL queries were transformed into interactive dashboards that highlight sales performance, order trends, and customer activity across segments. 🧾  
+
+---
+
+### 🧮 Excel + SQL  
+
+- **Mental Health Survey Analysis** [View Project](https://github.com/Oyinlola-Kayode/Mental-Health-Survey-Analysis)  
+This project presents a comprehensive analysis of **mental health survey data** sourced from Kaggle. It explores respondents’ experiences, workplace dynamics, diagnosis rates, and treatment status. Insights were communicated through an interactive **Excel dashboard** leveraging **Power Query, PivotTables, DAX, slicers, and VBA scripting**. The analysis spans **2016–2019**, revealing key mental health patterns across demographics. 🧠  
+
+---
+
+### 📊 Excel  
+
+- **AI Job Threat Index Analysis**  
+The **AI Job Threat Index Analysis** examines how **artificial intelligence (AI)** impacts a wide array of job roles across different industries. It explores the extent to which AI automates tasks and how this automation varies by domain—helping organizations plan for workforce evolution in the age of AI. 🤖  
