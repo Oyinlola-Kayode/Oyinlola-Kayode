@@ -67,36 +67,36 @@ Curious, adaptable, and purpose-driven, I continuously expand my expertise to re
 ---
 ## 🚀 Projects  
 
-### 💡 Power BI  
+###  Power BI  
 
 - **Airbnb Sales Insights (2011–2020)** [View Project](https://github.com/Oyinlola-Kayode/Airbnb-Sales-Insights)  
-An in-depth analysis of Airbnb listings across the U.S. from 2011 to 2020 using **Power BI**. The project involved data cleaning, star-schema modeling, and 40+ DAX measures to reveal pricing signals, host behavior, revenue potential, and demand trends through interactive dashboards. 🏡  
+An in-depth analysis of Airbnb listings across the U.S. from 2011 to 2020 using **Power BI**. The project involved data cleaning, star-schema modeling, and 40+ DAX measures to reveal pricing signals, host behavior, revenue potential, and demand trends through interactive dashboards.  
 
 - **BMW Car Model Sales Analysis** [View Project](https://github.com/Oyinlola-Kayode/BMW-Sales-Analysis)  
-A comprehensive sales intelligence report analyzing BMW’s global vehicle performance from 2019 to 2023. The project uncovers sales trends, top-performing models, and regional insights using **Power BI**, providing actionable findings to support strategic decision-making and market growth. 🚗  
+A comprehensive sales intelligence report analyzing BMW’s global vehicle performance from 2019 to 2023. The project uncovers sales trends, top-performing models, and regional insights using **Power BI**, providing actionable findings to support strategic decision-making and market growth.  
 
 - **Pareto Analysis of Product Sales** [View Project](https://github.com/Oyinlola-Kayode/Pareto-Analysis-of-Product-Sales-Using-Power-BI)  
-A Power BI analysis applying the **Pareto principle (80/20 rule)** to identify the top-performing products contributing most to overall sales. The project highlights sales concentration patterns, enabling targeted strategies to optimize inventory, marketing, and revenue performance. 🎯  
+A Power BI analysis applying the **Pareto principle (80/20 rule)** to identify the top-performing products contributing most to overall sales. The project highlights sales concentration patterns, enabling targeted strategies to optimize inventory, marketing, and revenue performance. 
 
 - **Amazon Sales Report** [View Project](https://medium.com/@kayodeoyinloladeborah1540/report-on-amazon-sales-f9165c973e42)  
-An analytical report examining **Amazon’s sales data** sourced from Kaggle, focusing on product categories, sales channels, and emerging sales trends. The project leverages **Power BI** for visualization to uncover insights that can improve sales strategies, streamline operations, and enhance customer satisfaction. 📦  
+An analytical report examining **Amazon’s sales data** sourced from Kaggle, focusing on product categories, sales channels, and emerging sales trends. The project leverages **Power BI** for visualization to uncover insights that can improve sales strategies, streamline operations, and enhance customer satisfaction.   
 
 ---
-### 🧩 Power BI + SQL  
+### Power BI + SQL  
 
 - **Parch and Posey SQL + Power BI Analysis** [View Project](https://github.com/Oyinlola-Kayode/parch-and-posey-sql-powerbi-analysis)  
-This project analyzes **sales and customer engagement data** from Parch and Posey using **PostgreSQL** for querying and **Power BI** for visualization. Insights derived from SQL queries were transformed into interactive dashboards that highlight sales performance, order trends, and customer activity across segments. 🧾  
+This project analyzes **sales and customer engagement data** from Parch and Posey using **PostgreSQL** for querying and **Power BI** for visualization. Insights derived from SQL queries were transformed into interactive dashboards that highlight sales performance, order trends, and customer activity across segments.  
 
 ---
 
-### 🧮 Excel + SQL  
+###  Excel + SQL  
 
 - **Mental Health Survey Analysis** [View Project](https://github.com/Oyinlola-Kayode/Mental-Health-Survey-Analysis)  
-This project presents a comprehensive analysis of **mental health survey data** sourced from Kaggle. It explores respondents’ experiences, workplace dynamics, diagnosis rates, and treatment status. Insights were communicated through an interactive **Excel dashboard** leveraging **Power Query, PivotTables, DAX, slicers, and VBA scripting**. The analysis spans **2016–2019**, revealing key mental health patterns across demographics. 🧠  
+This project presents a comprehensive analysis of **mental health survey data** sourced from Kaggle. It explores respondents’ experiences, workplace dynamics, diagnosis rates, and treatment status. Insights were communicated through an interactive **Excel dashboard** leveraging **Power Query, PivotTables, DAX, slicers, and VBA scripting**. The analysis spans **2016–2019**, revealing key mental health patterns across demographics.   
 
 ---
 
-### 📊 Excel  
+###  Excel  
 
-- **AI Job Threat Index Analysis**  
-The **AI Job Threat Index Analysis** examines how **artificial intelligence (AI)** impacts a wide array of job roles across different industries. It explores the extent to which AI automates tasks and how this automation varies by domain—helping organizations plan for workforce evolution in the age of AI. 🤖  
+- **AI Job Threat Index Analysis** [View Project](https://github.com/Oyinlola-Kayode/AI-JOB-THREAT-INDEX-ANALYSIS)   
+The **AI Job Threat Index Analysis** examines how **artificial intelligence (AI)** impacts a wide array of job roles across different industries. It explores the extent to which AI automates tasks and how this automation varies by domain—helping organizations plan for workforce evolution in the age of AI. 
