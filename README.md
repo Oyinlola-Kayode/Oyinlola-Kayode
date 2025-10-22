@@ -39,3 +39,26 @@ I’m deeply grounded in **data storytelling** — transforming data into clear,
 Beyond analytics, I value **collaboration, connection, and community impact**. I enjoy engaging with like-minded professionals, volunteering for initiatives that promote growth, and contributing to projects that use data to foster innovation and development in this evolving digital era.  
 
 Curious, adaptable, and purpose-driven, I continuously expand my expertise to remain versatile and impactful — using data not only to inform but to **inspire change and shape progress**.  
+---
+## 🧠 Technical Skills  
+
+- **Power BI** – Data Visualization, DAX, Dashboard Design, Drill-throughs  
+- **Excel** – Power Query, Pivot Tables, Advanced Formulas, Data Validation  
+- **SQL** – Query Writing, Joins, Aggregations, Database Management  
+- **Python** – Data Manipulation and Visualization using Pandas, Matplotlib  
+- **Data Modeling** – Star Schema, Relationships, Fact & Dimension Tables  
+- **Analytical Tools** – Power BI, Excel, Google Sheets, SQL, Python, Zapier  
+- **Microsoft Suite** – PowerPoint, Word, Excel  
+
+---
+
+## 💡 Core Competencies  
+
+- **Data Visualization & Storytelling:** Creating interactive dashboards and reports with Power BI and Excel.  
+- **Data Cleaning & ETL Processes:** Extracting, transforming, and loading data using Excel, Power BI, and SQL for analysis and reporting.  
+- **Exploratory Data Analysis (EDA):** Identifying trends and key metrics to support data-driven decisions.  
+- **Data Modeling:** Designing star schemas and building structured datasets for reporting.  
+- **Database Querying:** Writing SQL queries for data extraction and analysis in PostgreSQL and SQLite.  
+- **Automation & Workflow Integration:** Using Zapier to streamline repetitive tasks and integrate data tools efficiently.  
+- **Problem Solving & Analytical Thinking:** Applying logical analysis to uncover insights and improve outcomes.  
+- **Collaboration & Communication:** Presenting findings clearly and working effectively across teams.  
