@@ -24,4 +24,9 @@
   </a>
 </div>
 
-###
+----
+## 🌍 Mission  
+I harness the power of data to drive innovation, impact, and informed decision-making across organizations, businesses, and healthcare.  
+My goal is to transform data into actionable insights that inspire growth, empower communities, and create meaningful change.  
+
+---
