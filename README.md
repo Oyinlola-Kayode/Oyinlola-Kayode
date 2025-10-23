@@ -69,6 +69,10 @@ Curious, adaptable, and purpose-driven, I continuously expand my expertise to re
 
 ###  Power BI  
 
+-  **Stroke Risk Analysis (2024)** [View Project](https://github.com/Oyinlola-Kayode/Stroke-Risk-Analysis)  
+A comprehensive exploration of stroke risk factors using clinical and lifestyle data. Conducted with **Power BI** and **SQL**, the project involved data cleaning, segmentation, and visualization to uncover how demographic, behavioral, and medical attributes influence stroke outcomes. The analysis identifies high-risk subgroups, quantifies stroke likelihood across categories, and delivers actionable insights to support preventive health strategies and data-driven clinical decisions.  
+
+
 - **Airbnb Sales Insights (2011–2020)** [View Project](https://github.com/Oyinlola-Kayode/Airbnb-Sales-Insights)  
 An in-depth analysis of Airbnb listings across the U.S. from 2011 to 2020 using **Power BI**. The project involved data cleaning, star-schema modeling, and 40+ DAX measures to reveal pricing signals, host behavior, revenue potential, and demand trends through interactive dashboards.  
 
