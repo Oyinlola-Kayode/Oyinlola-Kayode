@@ -100,7 +100,14 @@ This project presents a comprehensive analysis of **mental health survey data** 
 
 ---
 
-###  Excel  
+###  Excel 
+
+- **CLINIC VISIT TRENDS AND DOCTORS PERFORMANCE OVERVIEW** [View Project](https://github.com/Oyinlola-Kayode/Clinic-Visit-Trends-and-Doctors-Performance-Overview/blob/Healthcare-Analysis/README.md)  
+An end-to-end healthcare analytics project built entirely in **Microsoft Excel** using **Power Query**, **Power Pivot**, **Pivot Tables**, and **VBA automation**.  
+The analysis explores **clinic visit trends, doctor performance, treatment effectiveness, and patient satisfaction** across demographic segments.  
+It uncovers key patterns — including visit peaks, age-based preferences, and service quality drivers — providing **data-driven recommendations** to enhance patient experience, optimize doctor workload, and strengthen hospital decision-making.  
+This project demonstrates strong expertise in **Excel analytics, data modeling, and insight storytelling**, showcasing the power of data in transforming healthcare operations.
+
 
 - **AI Job Threat Index Analysis** [View Project](https://github.com/Oyinlola-Kayode/AI-JOB-THREAT-INDEX-ANALYSIS)   
 The **AI Job Threat Index Analysis** examines how **artificial intelligence (AI)** impacts a wide array of job roles across different industries. It explores the extent to which AI automates tasks and how this automation varies by domain—helping organizations plan for workforce evolution in the age of AI. 
