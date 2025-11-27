@@ -67,7 +67,11 @@ Curious, adaptable, and purpose-driven, I continuously expand my expertise to re
 ---
 ## 🚀 Projects  
 
-###  Power BI  
+###  Power BI 
+
+-- **Pharmacy Sales & Customer Insights (Nigeria)** [View Project](https://github.com/Oyinlola-Kayode/Pharmacy-Sales-Customer-Insights-Analysis)  
+An end-to-end **Power BI** analysis of pharmacy transactions, customer demographics, and product sales. Built a **star-schema model**, calculated KPIs, and created interactive dashboards to reveal OTC vs prescription trends, top-selling products, and actionable operational insights.
+
 
 -  **Stroke Risk Analysis (2024)** [View Project](https://github.com/Oyinlola-Kayode/Stroke-Risk-Analysis)  
 A comprehensive exploration of stroke risk factors using clinical and lifestyle data. Conducted with **Power BI** and **SQL**, the project involved data cleaning, segmentation, and visualization to uncover how demographic, behavioral, and medical attributes influence stroke outcomes. The analysis identifies high-risk subgroups, quantifies stroke likelihood across categories, and delivers actionable insights to support preventive health strategies and data-driven clinical decisions.  
