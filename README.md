@@ -69,7 +69,7 @@ Curious, adaptable, and purpose-driven, I continuously expand my expertise to re
 
 ###  Power BI 
 
--- **Pharmacy Sales & Customer Insights (Nigeria)** [View Project](https://github.com/Oyinlola-Kayode/Pharmacy-Sales-Customer-Insights-Analysis)  
+- **Pharmacy Sales & Customer Insights (Nigeria)** [View Project](https://github.com/Oyinlola-Kayode/Pharmacy-Sales-Customer-Insights-Analysis)  
 An end-to-end **Power BI** analysis of pharmacy transactions, customer demographics, and product sales. Built a **star-schema model**, calculated KPIs, and created interactive dashboards to reveal OTC vs prescription trends, top-selling products, and actionable operational insights.
 
 
