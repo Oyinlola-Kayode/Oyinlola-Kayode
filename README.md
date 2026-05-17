@@ -117,6 +117,12 @@ This project demonstrates strong expertise in **Excel analytics, data modeling, 
 The **AI Job Threat Index Analysis** examines how **artificial intelligence (AI)** impacts a wide array of job roles across different industries. It explores the extent to which AI automates tasks and how this automation varies by domain—helping organizations plan for workforce evolution in the age of AI. 
 
 ---
+
+### 🐍 Python + AI-Assisted Analysis
+
+- **Nigeria Education Crisis — End-to-End Data Analysis** [View Project](https://github.com/Oyinlola-Kayode/Nigeria-education-analysis)  
+A rigorous, AI-assisted data analysis of Nigeria's education system using **65 years of World Bank data** (9,722 records · 449 indicators). Conducted using the **DIG Framework** (Describe · Introspect · Goal), the project uncovers four critical stories: a 90% collapse in government education spending since 1974, 9.07 million children still out of school, a historic gender literacy reversal where Nigerian girls overtook boys in literacy for the **first time in recorded history**, and evidence that NGOs and private schools are filling a **$17.6B annual funding gap** left by government. Built with **Python (pandas, matplotlib, seaborn)**, interactive **Chart.js dashboards**, and structured for full replication. Includes policy recommendations aligned with **SDG 4** targets.
+
 ## 🤝 Let’s Connect  
 
 - **LinkedIn:** [linkedin.com/in/kayodeoyinlola](https://www.linkedin.com/in/kayodeoyinlola)  
